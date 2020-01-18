@@ -12,4 +12,5 @@ This is a tool written in javascript to invert the color for built-in PDF reader
 
 ## How it Works
 For Firefox, it changes the settings of the viewer.style
+
 For Chrome, it creates a new div the covers the entire screen with click through, and invert everything behind it.
