@@ -1,4 +1,8 @@
 # NightModeBrowserPDF
+![alt text][logo]
+[logo]: icon.png "Logo created just incase if I want to turn it into an extension"
+
+
 This is a tool written in javascript to invert the color for built-in PDF readers for most of the browsers
 
 ## Usage
